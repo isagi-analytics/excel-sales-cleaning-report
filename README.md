@@ -1,3 +1,4 @@
+![Project Preview](preview.png)
 # Excel Sales Data Cleaning & Summary Report
 
 ## Overview
